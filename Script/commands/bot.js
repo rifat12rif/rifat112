@@ -70,7 +70,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("My Creator:R I F A T ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস রিফাত আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Admin) || (event.body.toLowerCase() == "boter admin")) {
+  if ((event.body.toLowerCase() == "Admin") || (event.body.toLowerCase() == "boter admin")) {
      return api.sendMessage("He is RiRifat❤️ তাকে সবাই রিফাত নামে  চিনে🤙", threadID);
    };
 
