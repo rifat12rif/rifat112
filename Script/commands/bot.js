@@ -103,11 +103,11 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস উল্লাস এর বউ এর নাম..!😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "Arohi") || (event.body.toLowerCase() == "farhana")) {
-     return api.sendMessage("খবরদার কেউ এই নাম দরে ডাক দিবানা এটা আমার বস উল্লাস এর বউ এর নাম..!😠🥰⛏️", threadID);
+  if ((event.body.toLowerCase() == "sabbir") || (event.body.toLowerCase() == "farhana")) {
+     return api.sendMessage("🥰--🌺 আমার বস রিফাত'র বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
-  if ((event.body.toLowerCase() == "sabbir ") || (event.body.toLowerCase() == "farhan")) {
+  if ((event.body.toLowerCase() == "Farhan") || (event.body.toLowerCase() == "farhan")) {
      return api.sendMessage("🥰--🌺 আমার বস রিফাত'র বন্ধু লাগে লুচ্ছি বেডি'রা দূরে থাক😠🥰⛏️", threadID);
    };
 
