@@ -1,0 +1,30 @@
+{
+  "1": {
+    "serial": "#1",
+    "name": "📌 Cyber Bot Team",
+    "threadID": "100000000001",
+    "members": "👥 120",
+    "fancyName": "✨ Cyber Bot Team ✨"
+  },
+  "2": {
+    "serial": "#2",
+    "name": "📌 Fun Lovers Group",
+    "threadID": "100000000002",
+    "members": "👥 85",
+    "fancyName": "✨ Fun Lovers Group ✨"
+  },
+  "3": {
+    "serial": "#3",
+    "name": "📌 Bangla Coding Hub",
+    "threadID": "100000000003",
+    "members": "👥 60",
+    "fancyName": "✨ Bangla Coding Hub ✨"
+  },
+  "4": {
+    "serial": "#4",
+    "name": "📌 Friends Forever",
+    "threadID": "100000000004",
+    "members": "👥 200",
+    "fancyName": "✨ Friends Forever ✨"
+  }
+}
