@@ -11,7 +11,7 @@ module.exports.config = {
   cooldowns: 5
 };
 
-const OWNER_UID = ["100079913601239"];
+const OWNER_UID = ["61557500431580"];
 const DATA_FILE = __dirname + "/ntcGroups.json";
 
 // Save groups
