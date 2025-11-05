@@ -53,7 +53,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "tor ball") || (event.body.toLowerCase() == "")) {
-     return api.sendMessage("~ তোমার বাল উঠে নাই নাকি তোমার?? 🤖", threadID);
+     return api.sendMessage("", threadID);
    };
 
   if ((event.body.toLowerCase() == "Rifat") || (event.body.toLowerCase() == "Rifat vai") || (event.body.toLowerCase() == "@Rɩʆʌt Kʜʌŋ") || (event.body.toLowerCase() == "রিফাত")) {
